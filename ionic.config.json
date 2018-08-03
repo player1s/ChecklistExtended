@@ -1,0 +1,7 @@
+{
+  "name": "ChecklistExtended",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
